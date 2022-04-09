@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ทำไมเขียน React ถึงควรต้องทำ UI Testing](https://developers.ascendcorp.com/%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-react-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3-ui-testing-dabac1209edb?source=rss-f29961ab68d8------2)
 <!-- BLOG-POST-LIST:END -->
 <div align="center">
   <a href="https://github.com/supawishPK">
