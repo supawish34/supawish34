@@ -1,11 +1,34 @@
-## Hi
+<h1 align="center">Hi 👋, I'm Supawish Kaewjing</h1>
+<h3 align="center">A passionate frontend developer from Thailand</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supawishpk&label=Profile%20views&color=0e75b6&style=flat" alt="supawishpk" /> </p>
+
+- 🔭 I’m currently working on **Ascend Wealth**
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **MEARN**
+
+- 📫 How to reach me **supawish.kj@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <div align="center">
   <a href="https://github.com/supawishPK">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supawishPK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=supawishPK&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ 	<a href="https://medium.com/@supawishkaewjing" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href = "mailto:supawish.kj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/supawish-kj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+<h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,11 +49,9 @@
   ##
  
 <div> 
- 	<a href="https://medium.com/@supawishkaewjing" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <a href = "mailto:supawish.kj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/supawish-kj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
   ![Snake animation](https://github.com/SupawishPK/supawishPK/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supawishpk&" alt="supawishpk" /></p>
+
