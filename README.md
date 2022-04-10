@@ -24,6 +24,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supawishPK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=supawishPK&layout=compact&langs_count=16&theme=dracula"/>
   </a>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supawishpk&theme=dracula" alt="supawishpk" /></p>
 </div>
   
 <h3 align="left">Connect with me:</h3>
@@ -57,6 +58,3 @@
   ![Snake animation](https://github.com/SupawishPK/supawishPK/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supawishpk&theme=dracula" alt="supawishpk" /></p>
-  </div>
