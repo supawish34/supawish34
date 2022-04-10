@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **MEARN**
 
-- 📫 How to reach me **supawish.kj@gmail.com**
-
 - ⚡ Fun fact **I am Funny**
 
 ### Blogs posts
