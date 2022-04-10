@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - ⚡ Fun fact **I am Funny**
 
