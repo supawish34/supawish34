@@ -1,14 +1,4 @@
-<h1 align="center">Hi 👋, I'm Supawish Kaewjing</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supawishpk&label=Profile%20views&color=0e75b6&style=flat" alt="supawishpk" /> </p>
-
-- 🔭 I’m currently working on **Ascend Wealth**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **MERN**
-
-- ⚡ Fun fact **I am Funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
