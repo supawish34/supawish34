@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pnpm ทำงานยังไง ทำไมถึงเร็ว?](https://developers.ascendcorp.com/pnpm-%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-64160eb2324a?source=rss-f29961ab68d8------2)
 - [Refactoring EP.7: การทดสอบ &lpar;Testing&rpar;](https://developers.ascendcorp.com/refactoring-ep-7-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A-testing-5730c2fe684?source=rss-f29961ab68d8------2)
 - [Refactoring EP.6: Bad Smells](https://developers.ascendcorp.com/refactoring-ep-6-bad-smells-8e7031e2d787?source=rss-f29961ab68d8------2)
 - [Refactoring EP.5: ผลตอบแทนของการ Refactor](https://developers.ascendcorp.com/refactoring-ep-5-%E0%B8%9C%E0%B8%A5%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-refactor-a8d6aa2f1e5f?source=rss-f29961ab68d8------2)
-- [Refactoring EP.4: ฉวยโอกาสและคิดแบบ Yagni](https://developers.ascendcorp.com/refactoring-ep-4-%E0%B8%89%E0%B8%A7%E0%B8%A2%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%AA-f4bd19629b5a?source=rss-f29961ab68d8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ##
